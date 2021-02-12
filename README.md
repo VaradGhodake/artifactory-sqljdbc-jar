@@ -8,4 +8,4 @@ $ cd artifactory-sqljdc-jar
 $ make
 ```
 
-# This will generate the RPM. Install using yum
+##### This will generate the RPM. Install using yum
